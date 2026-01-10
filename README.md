@@ -1,10 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ManojCherkuthotawar&label=Profile%20views&color=0e75b6&style=flat)
 
 👋 Hi there, I'm Manoj Cherkuthotawar
+
 💼 A Data Scientist / Analyst @India with 0.6 years of experience.
 🔭 Currently focused on Generative AI, expanding expertise in LLMs and advanced neural networks.
 
 🚀 What Defines Me as a Data Scientist
+
 ✔ Skilled in building, training, and deploying AI/ML models for real-world applications
 ✔ Strong focus on hypothesis testing, experimentation, and data-driven discovery
 ✔ Ability to translate complex models into clear, actionable strategies
@@ -14,11 +16,7 @@
 📫 Reach Me At: manojch69@outlook.com
 ⚡ Fun Fact: An Internationally Certified Civil Engineer, helping Corporate Companies to grow 
 
-🛠️ Languages and Tools:
-Python R HTML5 CSS3 MySQL MongoDB Snowflake GCP Git GitHub Anaconda Jupyter PyCharm Power BI Hadoop Generative AI Statistics AWS Excel Postman Docker VS Code Airflow JavaScript Flask Pandas NumPy Scikit-learn TensorFlow PyTorch Seaborn FastAPI
-
 ---
-
 ## 🛠️ Languages, Tools & Technologies
 
 ### 👨‍💻 Programming Languages
@@ -38,6 +36,4 @@ Python R HTML5 CSS3 MySQL MongoDB Snowflake GCP Git GitHub Anaconda Jupyter PyCh
 
 ### 🧰 Tools & Platforms
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda)
-
 ---
-
