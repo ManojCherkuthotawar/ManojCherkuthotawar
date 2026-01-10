@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ManojCherkuthotawar&label=Profile%20views&color=0e75b6&style=flat)
 
 👋 Hi there, I'm Manoj Cherkuthotawar
 💼 A Data Scientist / Analyst @India with 0.6 years of experience.
